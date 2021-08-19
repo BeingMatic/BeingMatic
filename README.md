@@ -1,4 +1,4 @@
-### Hi! I am Matic, A fullstack c++ that is mostly interested in kernels & Game hacking!
+### Hi! I am Matic, A fullstack c++ dev that is mostly interested in kernels & Game hacking!
 
 </div>
   <div style="display: inline_block"><br>
